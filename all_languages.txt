@@ -1,0 +1,294 @@
+﻿Acholi
+Afrikaans
+Agaw
+Akan
+Akateco
+Akateko
+Albanian
+Amharic
+Anuak
+Arabic
+Armenian
+Ashanti
+Assyrian
+Azerbaijani
+Azeri (Azerbaijani)
+Bahasa Melayu (Malaysian)
+Bahdini (use KB)
+Bambara
+Bangwa
+Basaa
+Bassa
+Belarusan
+Belarusian
+Bengali
+Bosnian
+Bulgarian
+Burmese
+CHI
+Cambodian
+Cambodian (Khmer)
+Cantonese
+Cape Verde Creole
+Cebuano
+Chaldean
+Chamorro
+Chaozhou
+Chin (Lai)
+Chin - Hahka
+Chin - Mizo
+Chin-Falam
+Chin-Hahka
+Chin-Mizo
+Chin-Tedim
+Chin-Zophei
+Chinese
+Chinese Cantonese
+Chinese Mandarin
+Chukchi
+Chuukese
+Chuukese (Trukese)
+Cora
+Creole
+Croatian
+Czech
+Danish
+Dari
+Dinka
+Dutch
+Dutch-Flemish
+Edo
+Egyptian (Arabic)
+English
+Estonian
+Ethiopian
+Ewe
+Falam (Chin)
+Farsi
+Fijian
+Filipino
+Finnish
+Foochow (Fuzhou)
+French
+French Canadian
+French Creole
+French-Canadian
+Fujian (use FU/FQ)
+Fukienese
+Fulani
+Fulani (Fula)
+Fuzhou
+Ga
+Gaelic
+Georgian
+German
+Grebo
+Greek
+Gujarati
+HAWAIIAN
+Haitian Creole
+Hakha (Chin)
+"Hakha (Chin, Lai)"
+Hakha - Chin
+Hakka
+Hakka (Chinese)
+Harari
+Hassaniya
+Hausa
+Hebrew
+Hindi
+Hmong
+Hunanese
+Hungarian
+IGBO
+Ibo
+Ibo (Igbo)
+Icelandic
+Igbo (Ibo)
+Ilocano
+Indonesian
+Iraqi
+Iraqi (Arabic)
+Italian
+Japanese
+Jarai
+Javanese (Ngoko)
+K'iche'
+K'iche' (same as QI)
+K'ichi' (Quiche)
+KURDISH (SORANI)
+Kanjobal
+Kannada
+Karen
+Karenni
+Karenni (Kayah)
+Kayah
+Khmer
+Khmer (Cambodian)
+Kikuyu (Gikuyu)
+Kinyarwanda
+Kirundi
+Kirundi (Rundi)
+Korean
+Kosrae
+Kosraen
+Krahn
+Krio
+Kunama
+Kurdish
+Kurdish (Bahdini)
+Kurdish (Sorani)
+Kurdish (Soran̨)
+Kurmanji (Bahdini)
+Kurmanji(Use KB)
+Kyrgyz
+Lahu
+Lao
+Laotian
+Latin
+Latvian
+Lebanese
+Liberian
+Lingala
+Lithuanian
+Lorma
+Luganda
+Luo
+Luo (Dhuluo)
+MaayMaay
+Macedonian
+Malagasy
+Malay
+Malay (Bahasa Melayu)
+Malayalam
+Mam
+Mandarin
+Mandingo
+Mandinka
+Mandinka (Mandingo)
+Mano
+Marathi
+Marshallese
+Matu
+May Maay
+May-May
+Mien
+Mixteco
+Mixteco (Alto)
+Mixteco (Bajo)
+Mixteco Bajo
+Mizo (Chin)
+Moldavian
+Mongolian
+Montenegrin
+More
+Moroccan
+Moroccan (Arabic)
+Moroccan Arabic
+Mortlockese
+NEAPOLITAN
+Navajo
+Nepali
+Nigerian
+Norwegian
+Nuer
+OPERATOR
+Oromifa
+Oromo
+Oromo (Oromifa)
+PAHARI
+PATOIS
+Pashto
+Pidgin
+Pidgin (Cameroonian)
+Pidgin (Nigerian)
+Pohnpeian
+Polish
+Ponapean
+Ponapean (Pohnpeian)
+Portuguese
+Portuguese (Brazil)
+Portuguese - Brazilian
+Portuguese Creole
+Portuguese Creole - Cape Verdian Creole
+Portuguese-Brazilian
+Portuguese-European
+Pulaar
+Punjabi
+Pwo (Karen)
+Q'anjob'al
+Quechua
+Quiche
+Quiche (use KJ)
+Quiche(try K'iche')
+Rohingya
+Romanian
+Russian
+SIERRA LEONE
+Samoan
+Serbian
+Serbo Croatian
+Shanghainese
+Shona
+Sichuan
+Sicilian
+Sindhi
+Sinhala
+Sinhalese
+Siyin
+Slovak
+Slovenian
+Somali
+Soninke
+Sorani
+Sotho
+Sousou
+Spanish
+Sudanese
+Sudanese (Arabic)
+Sundanese
+Sutsol
+Swahili
+Swedish
+TWI
+Tagalog
+Tagalog (Filipino)
+Tagranian
+Taiwanese
+Tamal
+Tamil
+Tedim (Chin)
+Telugu
+Teochew
+Thai
+Tibetan
+Tigrinya
+Toisanese
+Toishanese
+"Toishanese (Toishan, Toisanese)"
+Tongan
+Trukese (Chuukese)
+Trukese (use CK)
+Turkish
+Twi
+Ukrainian
+UnAssigned
+Urdu
+Uzbek
+Vangali
+Vietnamese
+Visayan
+Visayan (Bisaya)
+Wolof
+Yemeni
+Yiddish
+Yoruba
+Yugoslavian
+Zande
+"Zo (Zomi, Tedim)"
+Zomi
+Zophei
+Zophei (Zyphe)
+Zulu
+mam
+syrian
