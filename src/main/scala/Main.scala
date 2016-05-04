@@ -47,7 +47,7 @@ object Main {
   def submitSamples()= {
 
 
-    val files = new File("audio/wav").listFiles.filter(_.isFile).toList
+    val files = new File("audio/raw/charlie").listFiles.filter(_.isFile).toList
 
     files.foreach(file => {
 
