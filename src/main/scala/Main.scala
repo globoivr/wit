@@ -44,20 +44,20 @@ object Main {
     })
   }
 
-  def submitSamples()= {
+  def submitSamples() = {
 
 
     val files = new File("audio/raw/charlie").listFiles.filter(_.isFile).toList
 
     files.foreach(file => {
 
-      println (s"Submitting ${file.toPath} ")
+      println(s"Submitting ${file.toPath} ")
 
       val byteArray = Files.readAllBytes(file.toPath)
-
       val resp = Http("https://api.wit.ai/speech?v=20141022").postData(byteArray).
         header("Authorization", s"Bearer ${TOKEN}").
         header("Content-Type", "audio/wav").asString
+
 
       println(resp)
     })
